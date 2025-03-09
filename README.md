@@ -4,6 +4,7 @@
 </div>
 
 
-<center>
+<div align="center">
   <img src="Hacking We Are In GIF by Debby Ryan.gif">
-</center>
+</div>
+
