@@ -36,3 +36,15 @@
 </div>
 
 <hr>
+
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,postman,python" />
+</p>
+
+<hr>
