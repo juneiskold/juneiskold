@@ -78,4 +78,5 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Table of Contents](https://medium.com/@bonoloapp28/table-of-contents-3e20193368b4?source=rss-2128357f6dfe------2)
 <!-- BLOG-POST-LIST:END -->
